@@ -25,6 +25,8 @@ export const App = () => {
         </Container>
       </Navbar>
 
+ggggggggggggggggg!!!!!!!!!!!!!!!!!!!!!!
+i make changes bitchessssssss
 
 
       <footer className='app_footer'>
